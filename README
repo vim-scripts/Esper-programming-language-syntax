@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5287
+
+Provides only very basic syntax highlighting for EPL, but already has advanced features like schema name, table name highlighting.
+
+Code folding isn't supported right now, but will be supported soon.
+
+Screenshots: http://imgur.com/mer3QDB
+
+Follow all the changes, also to contribute or report bugs: https://github.com/itegulov/vim-epl-syntax
